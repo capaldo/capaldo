@@ -8,7 +8,7 @@ I'm an aspiring developer and an undergraduate student that designs and builds t
 
 ### Recyclepedia
 
-<img align="left" height=50% width=auto src="recyclepedia/1.gif">
+<img align="left" height=auto width=30% src="recyclepedia/1.gif">
 
 * Utilized SwiftUl and an MVVM architecture with the networking layer implementation backed by Firebase.
 2021 - 2022
